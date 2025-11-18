@@ -18,7 +18,7 @@ I am a cybersecurity learner passionate about SOC operations, log analysis, and 
 I enjoy breaking things in labs, analyzing network traffic, and learning how real attacks work.
 
 ## Projects
-**https://github.com/morrisonhim/SSH-log-analysis-using-Splunk
+**[SSH Log Analysis with Splunk](https://github.com/morrisonhim/SSH-log-analysis-using-Splunk)** - Analyzing SSH brute-force attempts using Splunk dashboards and log correlation
 
 
 
