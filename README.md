@@ -1,7 +1,7 @@
 ## Hi there 👋I'm Kingsford 
 
-🎓 Cybersecurity Enthusiast | SOC Analyst in Training
-💻 Currently learning: Network Security, SIEM, Threat Detection
+## 🎓 Cybersecurity Enthusiast | SOC Analyst in Training
+## 💻 Currently learning: Network Security, SIEM, Threat Detection
 
 ## 🔗 Connect With Me
 🌐 **Github:** [morrisonhim](https://github.com/morrisonhim)
