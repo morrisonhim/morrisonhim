@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋I'm Kingsford 
 
-<!--
-**morrisonhim/morrisonhim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Cybersecurity Enthusiast | SOC Analyst in Training
+💻 Currently learning: Network Security, SIEM, Threat Detection
 
-Here are some ideas to get you started:
+## 🔗 Connect With Me
+🌐 **Github:** https://github.com/morrisonhim
+💼 **LinkedIn:** https://www.linkedin.com/in/kingsford-morrison
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⛏️ Tools & Skills
+- **Operating Systems:** Ubuntu, Linux
+- **Network Analysis:** Wireshark
+- **Security Tools:** Splunk, Snort
+- **Other:** Log analysis, VM-based labs
+
+## 🧠 About Me
+I am a cybersecurity learner passionate about SOC operations, log analysis, and building defensive tools.
+I enjoy breaking things in labs, analyzing network traffic, and learning how real attacks work.
+Ev
