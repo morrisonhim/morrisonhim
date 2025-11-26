@@ -19,7 +19,7 @@ I enjoy breaking things in labs, analyzing network traffic, and learning how rea
 
 ## Projects
 ## **[SSH Log Analysis with Splunk](https://github.com/morrisonhim/SSH-log-analysis-using-Splunk)** - Analyzing SSH brute-force attempts using Splunk dashboards and log correlation
-## **[Wireshark Network Traffic Analysis](https://github.com/morrisonhim/Network-traffic-analysis)** - Capturing and inspecting packets to identify suspicious activity
+## **[Network Traffic Analysis Using Wireshark](https://github.com/morrisonhim/Network-traffic-analysis)** - Capturing and inspecting packets to identify suspicious activity
 
 
 
