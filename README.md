@@ -5,7 +5,7 @@
 
 ## 🔗 Connect With Me
 🌐 **Github:** [morrisonhim](https://github.com/morrisonhim)
-💼 **LinkedIn:** [Kingsford Morrison](https://www.linkedin.com/in/kingsford-morrison)
+
 
 ## ⛏️ Tools & Skills
 - **Operating Systems:** Ubuntu, Linux
