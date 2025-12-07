@@ -1,6 +1,6 @@
 ## Hi there 👋I'm Kingsford 
 
-- **🎓 Cybersecurity Enthusiast | SOC Analyst in Training**
+- **🎓 Cybersecurity Enthusiast | SOC Analyst**
 - **💻 Currently learning: Network Security, SIEM, Threat Detection**
 
 ## 🔗 Connect With Me
