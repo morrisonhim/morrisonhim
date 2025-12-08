@@ -21,4 +21,5 @@ I enjoy breaking things in labs, analyzing network traffic, and learning how rea
 ## **[SSH Log Analysis with Splunk](https://github.com/morrisonhim/SSH-log-analysis-using-Splunk)** - Analyzing SSH brute-force attempts using Splunk dashboards and log correlation
 ## **[Network Traffic Analysis Using Wireshark](https://github.com/morrisonhim/Network-traffic-analysis-)** - Capturing and inspecting packets to identify suspicious activity
 ## **[Nessus Vulnerability Assessment](https://github.com/morrisonhim/Nessus-Vulnerability-Assessment)** -  Nessus credentialed scan of a Linux system and a web application vulnerability scan targeting an Nginx server
+## **[Web Activity Dashboard in Splunk](https://github.com/morrisonhim/Web-Activity-Dashboard-in-Splunk)** - A Splunk dashboard for analyzing Apache web server activity with insights on traffic, errors, users, and geographic patterns.
 
