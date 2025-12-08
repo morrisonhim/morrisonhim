@@ -4,8 +4,7 @@
 - **💻 Currently learning: Network Security, SIEM, Threat Detection**
 
 ## 🧠 About Me
-I am a cybersecurity learner passionate about SOC operations, log analysis, and building defensive tools.
-I enjoy breaking things in labs, analyzing network traffic, and learning how real attacks work.
+I am a cybersecurity enthusiast with a growing focus on SOC operations, threat detection, and log analysis. I enjoy building hands-on labs, analyzing network traffic, and understanding how real- world attacks unfold.
 
 ## 🔗 Connect With Me
 🌐 **Github:** [morrisonhim](https://github.com/morrisonhim)
