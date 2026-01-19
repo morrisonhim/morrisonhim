@@ -1,18 +1,26 @@
 ## Hi there 👋I'm Kingsford 
 
 - **🎓 Cybersecurity Enthusiast | SOC Analyst**
-- **💻 Currently learning: Network Security, SIEM, Threat Detection**
+- **💻 Focused on threat detection, log analysis, and incident response**
+- **📘 Actively strengthening skills in SIEM, network security, and defensive operations** 
 
 ## 🧠 About Me
-I am a cybersecurity enthusiast with a growing focus on SOC operations, threat detection, and log analysis. I enjoy building hands-on labs, analyzing network traffic, and understanding how real- world attacks unfold.
+I am a SOC Analyst with hands-on experience in security monitoring, log analysis, and threat detection. I focus on identifying suspicious activity, analyzing network traffic, and responding to security incidents using industry-standard tools and frameworks. 
+I enjoy building practical labs, investigating real-world attack scenarios, and continuously improving detection and response capabilities within a SOC environment.
 
 ## 🔗 Connect With Me
 🌐 **Github:** [morrisonhim](https://github.com/morrisonhim)
 
 ## ⛏️ Tools & Skills
 - **Operating Systems:** Ubuntu, Linux
-- **Network Analysis:** Wireshark
+- **Network Analysis:** Wireshark, TCP/IP, Packet Analysis
 - **Security Tools:** Splunk, Snort, Wazuh, Nessus, Nmap, Burp Suite
+
+## Core SOC Skills
+- **Log Analysis**
+- **Threat Detection & Alert Triage**
+- **Network Security Monitoring**
+- **Basic Incident Response Workflow**
 
 ## Projects
 ## **[SSH Log Analysis with Splunk](https://github.com/morrisonhim/SSH-log-analysis-using-Splunk)** - Analyzing SSH brute-force attempts using Splunk dashboards and log correlation
