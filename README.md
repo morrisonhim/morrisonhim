@@ -10,6 +10,7 @@ I enjoy building practical labs, investigating real-world attack scenarios, and 
 
 ## 🔗 Connect With Me
 🌐 **Github:** [morrisonhim](https://github.com/morrisonhim)
+🔗 **Linkedin:** [kingsfordmorrison](www.linkedin.com/in/kingsfordmorrison)
 
 ## ⛏️ Tools & Skills
 - **Operating Systems:** Ubuntu, Linux
