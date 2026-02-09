@@ -33,7 +33,7 @@ I enjoy building practical labs, investigating real-world attack scenarios, and 
 - **Log Analysis**
 - **Threat Detection & Alert Triage**
 - **Network Security Monitoring**
-- **Basic Incident Response Workflow**
+- **Incident Response Workflow**
 
 ## Projects
 ## **[SSH Log Analysis with Splunk](https://github.com/morrisonhim/SSH-log-analysis-using-Splunk)** - Analyzing SSH brute-force attempts using Splunk dashboards and log correlation
