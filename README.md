@@ -13,8 +13,9 @@ I enjoy building practical labs, investigating real-world attack scenarios, and 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kingsford-morrison/)
 
 ## ⛏️ Tools
-- **Operating Systems:** ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux)
-- **Network Analysis:** ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark) ![tcpdump](https://img.shields.io/badge/tcpdump-6A1B9A?style=for-the-badge) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-FF5722?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-0055FF?style=for-the-badge)
+- **OS:** ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+- **Network Security:** ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark) ![tcpdump](https://img.shields.io/badge/tcpdump-6A1B9A?style=for-the-badge) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-FF5722?style=for-the-badge) ![Nmap](https://img.shields.io/badge/Nmap-0055FF?style=for-the-badge)
 - **Security Tools:** ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoft) 
@@ -26,7 +27,6 @@ I enjoy building practical labs, investigating real-world attack scenarios, and 
 ![PhishTool](https://img.shields.io/badge/PhishTool-2196F3?style=for-the-badge)
 - **Scripting & Automation**
 ![PowerShell](https://img.shields.io/badge/PowerShell-blue?style=for-the-badge&logo=powershell)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash)
 
 ## SOC Skills
